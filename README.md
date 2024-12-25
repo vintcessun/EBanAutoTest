@@ -27,4 +27,4 @@
 
 我使用的是Python3.7.6
 
-然后`pip install -r pip install -r requirements.txt`即可
+然后`pip install -r requirements.txt`即可
